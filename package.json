@@ -5,6 +5,7 @@
   "description": "",
   "author": "",
   "license": "ISC",
+  "homepage": "https://vitepress-misaka.vercel.app/",
   "keywords": [],
   "main": "index.js",
   "scripts": {

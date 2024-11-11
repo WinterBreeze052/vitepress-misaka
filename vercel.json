@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "name": "vitepress-misaka",
+  "framework": "vite",
+  "installCommand": "pnpm install",
+  "buildCommand": "pnpm build",
+  "outputDirectory": ".vitepress/dist",
+  "git": {
+    "deploymentEnabled": {
+      "main": true
+    }
+  }
+}
